@@ -37,5 +37,9 @@ img{
     display: block;
     width: 400px;
     margin: 0 auto;
-
+}
+button{
+    font-size:16px;
+    text-align: right;
+    color:blue;
 }
