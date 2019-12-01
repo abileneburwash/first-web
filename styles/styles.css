@@ -1,0 +1,40 @@
+html{
+    font-size:10px;
+    font-family:'Muli', sans-serif;
+}
+h1{
+    color: #4c5bff;
+    font-size:60px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+p{
+    color:hsla(234, 70%, 54%, 0.94);
+    width: 1200px;
+    border: 1pxsolid black;
+    font-family: 'Muli', sans-serif;
+    font-size: 30px ;
+    line-height: 1.55;
+    letter-spacing: 1px;
+    
+}
+body{
+    background-color: rgba(255, 162, 76, 0.64);
+}   
+h2, a{
+    color: #4c5bff;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+} 
+li{
+    color:solid white;
+    background-color: rgba(255, 162, 76, 0.64);
+    width: 700px;
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-family: 'Muli', sans-serif;
+}
+img[src]{
+    image
+}

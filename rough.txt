@@ -1,0 +1,14 @@
+#FFA24C
+HSL code : hsl(29, 100%, 65%)
+RGB code : rgb(255, 162, 76)
+
+fonts:<link href="https://fonts.googleapis.com/css?family=Lato:700|Muli&display=swap" rel="stylesheet"> 
+CSS:
+
+
+    font-family: 'Muli', sans-serif;
+
+    font-family: 'Lato', sans-serif;
+
+
+
